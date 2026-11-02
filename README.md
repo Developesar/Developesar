@@ -10,6 +10,7 @@ I build practical tools that connect artificial intelligence with day-to-day eng
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
+| [Hamrah Didari](https://github.com/Developesar/hamrah-didari) | Persian visual-assistant capstone: scene description, OCR and voice interaction. Public technical showcase. | Python, computer vision, OCR, speech, FastAPI, Streamlit |
 | [Local AI File Renamer](https://github.com/Developesar/ariana-file-server) | Persian-to-English file and folder naming, with preview, backup and restore workflows. | Python, local LLMs, desktop UI |
 | [Offline SSL/TLS Certificate Studio](https://github.com/Developesar/offline-ssl-certificate-studio) | Local certificate conversion, encrypted exports, inspection and key matching. | Python, Tkinter, cryptography |
 | [Network Checker PRO](https://github.com/Developesar/Network-Checker-PRO) | Compare ICMP, TCP and HTTP results for practical network diagnostics. | Python, sockets, regression tests |
